@@ -1,0 +1,1423 @@
+fileFormatVersion: 2
+guid: d5e670ed4dd0d724d911dfe984e71489
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7768225593823500481
+    second: tilema_neo_alpha_0
+  - first:
+      213: -7146588398593990583
+    second: tilema_neo_alpha_1
+  - first:
+      213: 6261393297867126649
+    second: tilema_neo_alpha_2
+  - first:
+      213: -4213591067813993644
+    second: tilema_neo_alpha_3
+  - first:
+      213: -5477853231982643487
+    second: tilema_neo_alpha_4
+  - first:
+      213: 2597570917837507143
+    second: tilema_neo_alpha_5
+  - first:
+      213: 5402586272466288990
+    second: tilema_neo_alpha_6
+  - first:
+      213: 8930854742176590455
+    second: tilema_neo_alpha_7
+  - first:
+      213: 608269598555660277
+    second: tilema_neo_alpha_8
+  - first:
+      213: -7143383932384653189
+    second: tilema_neo_alpha_9
+  - first:
+      213: -5043760023289093607
+    second: tilema_neo_alpha_10
+  - first:
+      213: 7585363339782620161
+    second: tilema_neo_alpha_11
+  - first:
+      213: 6210140371520084285
+    second: tilema_neo_alpha_12
+  - first:
+      213: -6813867639610517907
+    second: tilema_neo_alpha_13
+  - first:
+      213: -7813519973122511944
+    second: tilema_neo_alpha_14
+  - first:
+      213: -7703506212431812816
+    second: tilema_neo_alpha_15
+  - first:
+      213: -667342140704882300
+    second: tilema_neo_alpha_16
+  - first:
+      213: 34841677952211979
+    second: tilema_neo_alpha_17
+  - first:
+      213: 6309249468821485139
+    second: tilema_neo_alpha_18
+  - first:
+      213: 8453229600976444395
+    second: tilema_neo_alpha_19
+  - first:
+      213: 1073628778985491476
+    second: tilema_neo_alpha_20
+  - first:
+      213: -4690543714964552969
+    second: tilema_neo_alpha_21
+  - first:
+      213: -3579131777052109628
+    second: tilema_neo_alpha_22
+  - first:
+      213: 8554399600781858172
+    second: tilema_neo_alpha_23
+  - first:
+      213: 5680260485710594968
+    second: tilema_neo_alpha_24
+  - first:
+      213: -787453645329748069
+    second: tilema_neo_alpha_25
+  - first:
+      213: 3897549754338673787
+    second: tilema_neo_alpha_26
+  - first:
+      213: 8088142381121236265
+    second: tilema_neo_alpha_27
+  - first:
+      213: -6831019124559573217
+    second: tilema_neo_alpha_28
+  - first:
+      213: -7154854609813162892
+    second: tilema_neo_alpha_29
+  - first:
+      213: 4561871179000664623
+    second: tilema_neo_alpha_30
+  - first:
+      213: 4593220131459384611
+    second: tilema_neo_alpha_31
+  - first:
+      213: 6502661093931689687
+    second: tilema_neo_alpha_32
+  - first:
+      213: 974887212067304208
+    second: tilema_neo_alpha_33
+  - first:
+      213: -7536718302072632250
+    second: tilema_neo_alpha_34
+  - first:
+      213: -4143249762211770557
+    second: tilema_neo_alpha_35
+  - first:
+      213: -7589098050004965113
+    second: tilema_neo_alpha_36
+  - first:
+      213: -1463073752909769973
+    second: tilema_neo_alpha_37
+  - first:
+      213: 8568668203888119265
+    second: tilema_neo_alpha_38
+  - first:
+      213: -469094654495199032
+    second: tilema_neo_alpha_39
+  - first:
+      213: 33139952214560232
+    second: tilema_neo_alpha_40
+  - first:
+      213: 4962975680982707229
+    second: tilema_neo_alpha_41
+  - first:
+      213: 7347324997689278513
+    second: tilema_neo_alpha_42
+  - first:
+      213: 3497569059592662644
+    second: tilema_neo_alpha_43
+  - first:
+      213: -6864059971000399502
+    second: tilema_neo_alpha_44
+  - first:
+      213: 8865302444156987530
+    second: tilema_neo_alpha_45
+  - first:
+      213: 3077091242200633438
+    second: tilema_neo_alpha_46
+  - first:
+      213: -9024800687504479991
+    second: tilema_neo_alpha_47
+  - first:
+      213: -228994521656388676
+    second: tilema_neo_alpha_48
+  - first:
+      213: 4501041516875362462
+    second: tilema_neo_alpha_49
+  - first:
+      213: -1438422123708591153
+    second: tilema_neo_alpha_50
+  - first:
+      213: -1619256362236367059
+    second: tilema_neo_alpha_51
+  - first:
+      213: -6255307752340658083
+    second: tilema_neo_alpha_52
+  - first:
+      213: -2832689888537926476
+    second: tilema_neo_alpha_53
+  - first:
+      213: 9008704112275133524
+    second: tilema_neo_alpha_54
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilema_neo_alpha_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 119
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb15b5af1f5bd8d4aa6aa2954851c9f8
+      internalID: 7768225593823500481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 119
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3520d27906721b144b009bd01d6952b7
+      internalID: -7146588398593990583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 120
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9c905b9e002194d811a0abb096563a
+      internalID: 6261393297867126649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 120
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0adea3bfb6a9c4386e17ba600dacb1
+      internalID: -4213591067813993644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 121
+        width: 14
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00edade1edc67094aa4a23f443f7a143
+      internalID: -5477853231982643487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 119
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3390aacd87e5d44aaf841df28c5196c
+      internalID: 2597570917837507143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 119
+        width: 13
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5b705258ba45f4fa410b00d4ce8697
+      internalID: 5402586272466288990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 102
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37aa98a972720c428091bd502c757a0
+      internalID: 8930854742176590455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 102
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83842ec11da91e54982cc0a412e99a11
+      internalID: 608269598555660277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 103
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8037be0a357aa740802f36fec5ed582
+      internalID: -7143383932384653189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 103
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9298f3c5aa86b03459d6921c9d62c664
+      internalID: -5043760023289093607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 104
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bf8c01547a62142919b8b2fdcc6109
+      internalID: 7585363339782620161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 102
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d76ad964ea69247a4a4971bdebe6f8
+      internalID: 6210140371520084285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 102
+        width: 12
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12862865a21293468596b182d76d4f2
+      internalID: -6813867639610517907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 85
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3d6df30e284dd4e9c6f7522e4543c9
+      internalID: -7813519973122511944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 85
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b179300181b9fdd4a8c7386a5841e5e9
+      internalID: -7703506212431812816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 86
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307b99d62951bc44787eef15edb81820
+      internalID: -667342140704882300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_17
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 86
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66478a2139ecee449a9f8a5928dc1719
+      internalID: 34841677952211979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 87
+        width: 14
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdde5bcb3f65a34e85dabc219abb892
+      internalID: 6309249468821485139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_19
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 85
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88598ea0ccdaf484299aea4f138d48e2
+      internalID: 8453229600976444395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_20
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 85
+        width: 13
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea88cdaadea06c4fbfbac461c8e8fe0
+      internalID: 1073628778985491476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 68
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0b5a5e0969cfc428e30c7f85f8de88
+      internalID: -4690543714964552969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 68
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc55bb41826e89449d09ca4f60bbd28
+      internalID: -3579131777052109628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_23
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 69
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72e31f0b48ff1b42ac38dfd540ff1d1
+      internalID: 8554399600781858172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_24
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 69
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8050e7ef632fea746a5923994bb88476
+      internalID: 5680260485710594968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 70
+        width: 14
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162f3b78bb5001243a2e0c0cf7dcc2a1
+      internalID: -787453645329748069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_26
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 51
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb0da577afb2ba428babe564d9fc43b
+      internalID: 3897549754338673787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 68
+        width: 13
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b49a8d1c0e4ed3478864c981af9aded
+      internalID: 8088142381121236265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 51
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b4473148638084db12411fef961b98
+      internalID: -6831019124559573217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_29
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 51
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2ef04e147b3b54f9545ce0e47a67ce
+      internalID: -7154854609813162892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_30
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 51
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2623802b877dc04e844c1a02ced6826
+      internalID: 4561871179000664623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_31
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 52
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186d693fce34a24419d4b049c14e4bbf
+      internalID: 4593220131459384611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 51
+        width: 12
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768ea9b3928b9fa4c98387224e7bc879
+      internalID: 6502661093931689687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_33
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 58
+        width: 8
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859395ff2ff24f1429a87e9154ab21d4
+      internalID: 974887212067304208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_34
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 34
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2773c55d1926b81409b65d76e4aca8fc
+      internalID: -7536718302072632250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_35
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 34
+        width: 10
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d855c5f20d5e440a97b4b44b20b1fb
+      internalID: -4143249762211770557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_36
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 34
+        width: 10
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532420f095a88ef4ba14fdfeaeb0b7d0
+      internalID: -7589098050004965113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_37
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 35
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629a5383635aa8a46bbe827a0b35f523
+      internalID: -1463073752909769973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_38
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 34
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f0975a96106884194e809c4094e6cc
+      internalID: 8568668203888119265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_39
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 37
+        width: 10
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a3a630f3bb31c44b92473678ca2da3
+      internalID: -469094654495199032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_40
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 17
+        width: 12
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b093219620b7934f995815d6496f4f6
+      internalID: 33139952214560232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 17
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54eac2a758ee994881e70d8b1f38a5d
+      internalID: 4962975680982707229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_42
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 17
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501e157df6a89524fa7233ced2cba170
+      internalID: 7347324997689278513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_43
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 17
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2a2b50c9d4d424ca8d2ff9c46dd04f
+      internalID: 3497569059592662644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_44
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 18
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1683b2bf4336c45ad7a6f3c8e43afb
+      internalID: -6864059971000399502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_45
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 17
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d425072a3a06404f9a19f1c2ee9dca0
+      internalID: 8865302444156987530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_46
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 17
+        width: 12
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa65ae36d87d5b4a905583a28c68d34
+      internalID: 3077091242200633438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_47
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49383cd28022c74bb3fc3716b85e2ee
+      internalID: -9024800687504479991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_48
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfddd5ca5f95e2409a7b576b9051bda
+      internalID: -228994521656388676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_49
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b112068974db05244a09544b50d11cab
+      internalID: 4501041516875362462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_50
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 12
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ffdc82738a9504d97a4f0e41b4c872
+      internalID: -1438422123708591153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_51
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 14
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190107b7504fe0e4c8e3de1e1e7ae59a
+      internalID: -1619256362236367059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_52
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 3
+        width: 14
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e4801a3e6040d428b4991f97614bde
+      internalID: -6255307752340658083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_53
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc1e99992fd005428ab2d2aed6e5492
+      internalID: -2832689888537926476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilema_neo_alpha_54
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c24a8e0745df504aad1eeac3fef404d
+      internalID: 9008704112275133524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

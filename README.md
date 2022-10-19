@@ -2,7 +2,9 @@
 
 Neo lives in a world called Obscure, but suddenly the color has disappeared. Help Neo bring color back to his world by overcoming different levels and collecting the colored power gems. 
 
-![obscure_1](https://user-images.githubusercontent.com/29986345/196819593-821b3e25-9b93-491b-a781-9eaa764fbe1e.png)
+<!--![obscure_1](https://user-images.githubusercontent.com/29986345/196819593-821b3e25-9b93-491b-a781-9eaa764fbe1e.png)-->
+
+https://user-images.githubusercontent.com/29986345/196821063-b1e2c61f-51cb-4232-b55d-ca9a58fd5a1c.mp4
 
 ## 📜 History
 
@@ -18,12 +20,12 @@ This project was done in just 48h without having any previous Unity experience. 
 
 ## 📷 Screenshots
 
-<img width="2328" alt="neo_obscure" src="https://user-images.githubusercontent.com/29986345/196810660-47bebd15-ff17-4bdc-b83a-bc8f7ff75c76.png">
+<img alt="neo_obscure" align="right" src="https://user-images.githubusercontent.com/29986345/196810660-47bebd15-ff17-4bdc-b83a-bc8f7ff75c76.png" style="object-fit: cover; height: 270px; float: right; margin: 10px">
 
-![obscure_2](https://user-images.githubusercontent.com/29986345/196819893-e7fa053e-9849-4f4b-a360-8d6b00993157.png)
+<img align="left" alt="obscure_2" src="https://user-images.githubusercontent.com/29986345/196819893-e7fa053e-9849-4f4b-a360-8d6b00993157.png" style="object-fit: cover; height: 270px; float: right; margin: 10px">
 
-![obscure_3](https://user-images.githubusercontent.com/29986345/196819921-cbc4db57-9385-48f4-a4ba-be3d93f12381.png)
+<img align="right" alt="obscure_3" src="https://user-images.githubusercontent.com/29986345/196819921-cbc4db57-9385-48f4-a4ba-be3d93f12381.png" style="object-fit: cover; height: 270px; float: right; margin: 10px">
 
-![obscure_4](https://user-images.githubusercontent.com/29986345/196819946-2d0e12d8-ceae-47bc-85e5-844583fdfe9f.png)
+<img align="left" alt="obscure_4" src="https://user-images.githubusercontent.com/29986345/196819946-2d0e12d8-ceae-47bc-85e5-844583fdfe9f.png" style="object-fit: cover; height: 270px; float: right; margin: 10px">
 
 

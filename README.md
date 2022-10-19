@@ -20,6 +20,10 @@ This project was done in just 48h without having any previous Unity experience. 
 	- 📺 **TV**. The idea came to me that being a retro style game, it would be great to be able to see the game as if it were being played on an old TV. The TV shown is a Rubin TV, rendered specifically for use as an in-game asset.
 - 🔴 Extremely difficult game. It is a game in which there is no limit of lives. The only limit there is is your frustration. Seriously, it's very difficult.
 
+## 🕹 Do you want to play?
+
+If you want to play this game, here is the link to the Itch.io page where you can download it for both Mac and Windows: [Obscure Gamepage](https://brandommoore.itch.io/obscure)
+
 ## 📷 Screenshots
 
 <img alt="neo_obscure" align="right" src="https://user-images.githubusercontent.com/29986345/196810660-47bebd15-ff17-4bdc-b83a-bc8f7ff75c76.png" style="object-fit: cover; height: 270px; float: right; margin: 10px">
@@ -29,5 +33,7 @@ This project was done in just 48h without having any previous Unity experience. 
 <img align="right" alt="obscure_3" src="https://user-images.githubusercontent.com/29986345/196819921-cbc4db57-9385-48f4-a4ba-be3d93f12381.png" style="object-fit: cover; height: 270px; float: right; margin: 10px">
 
 <img align="left" alt="obscure_4" src="https://user-images.githubusercontent.com/29986345/196819946-2d0e12d8-ceae-47bc-85e5-844583fdfe9f.png" style="object-fit: cover; height: 270px; float: right; margin: 10px">
+
+---------------------------------------------
 
 

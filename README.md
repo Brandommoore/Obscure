@@ -4,7 +4,9 @@ Neo lives in a world called Obscure, but suddenly the color has disappeared. Hel
 
 <!--![obscure_1](https://user-images.githubusercontent.com/29986345/196819593-821b3e25-9b93-491b-a781-9eaa764fbe1e.png)-->
 
-https://user-images.githubusercontent.com/29986345/196821063-b1e2c61f-51cb-4232-b55d-ca9a58fd5a1c.mp4
+<!--https://user-images.githubusercontent.com/29986345/196821063-b1e2c61f-51cb-4232-b55d-ca9a58fd5a1c.mp4-->
+
+![Splash_screen_obscure](https://user-images.githubusercontent.com/29986345/196821492-d62d1fbe-f790-4ac7-a7e5-551bceb527be.gif)
 
 ## 📜 History
 

@@ -34,6 +34,3 @@ If you want to play this game, here is the link to the Itch.io page where you ca
 
 <img align="left" alt="obscure_4" src="https://user-images.githubusercontent.com/29986345/196819946-2d0e12d8-ceae-47bc-85e5-844583fdfe9f.png" style="object-fit: cover; height: 270px; float: right; margin: 10px">
 
----------------------------------------------
-
-
